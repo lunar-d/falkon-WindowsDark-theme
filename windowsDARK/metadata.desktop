@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Windows Dark
+Name[fr]=Windows Dark
+Comment=Windows Dark like theme based on Microsoft Edge
+Comment[fr]=Thème Windows de couleur foncée basé sur Microsoft Edge
+
+Icon=theme.png
+Type=Service
+
+X-Falkon-Author=Lunar-Dreams based on David Rosca theme
+X-Falkon-License=GPLv3
